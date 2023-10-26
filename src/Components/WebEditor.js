@@ -3,7 +3,6 @@ import { Row, Col, Container } from "react-bootstrap";
 import Editor from "./WebEditor/Editor";
 import Footer from "./Footer";
 import { useLocalStorage } from "../Hooks/LocalStorage";
-import "bootstrap/dist/css/bootstrap.min.css";
 import "../App.css";
 
 function LaunguageManager() {

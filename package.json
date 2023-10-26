@@ -1,6 +1,6 @@
 {
   "name": "online-code-editor",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@github/markdown-toolbar-element": "^1.4.0",

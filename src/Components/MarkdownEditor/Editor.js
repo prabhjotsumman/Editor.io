@@ -36,6 +36,7 @@ function Editor() {
     boxShadow: "rgb(0 0 0 / 49%) 2px 2px 10px",
     border: 0,
     outline: "none",
+    color: 'black'
   };
   const mdOut = {
     width: "100%",
